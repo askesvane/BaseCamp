@@ -1,0 +1,1 @@
+{"product1": {"number of sales": 2, "price": 3000, "total amount": 6000}, "product2": {"number of sales": 4, "price": 450, "total amount": 1800}, "product3": {"number of sales": 5, "price": 300, "total amount": 1500}, "product4": {"number of sales": 1, "price": 34, "total amount": 34}}
